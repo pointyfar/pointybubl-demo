@@ -1,0 +1,3 @@
+[submodule "themes/pointybubl"]
+	path = themes/pointybubl
+	url = https://github.com/pointyfar/pointybubl.git
