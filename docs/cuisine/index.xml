@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuisine on Pointy&#39;s</title>
+    <link>/cuisine/</link>
+    <description>Recent content in Cuisine on Pointy&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>boiled</title>
+      <link>/cuisine/boiled/</link>
+      <pubDate>Fri, 07 Sep 2018 20:25:37 +1000</pubDate>
+      
+      <guid>/cuisine/boiled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eggy</title>
+      <link>/cuisine/eggy/</link>
+      <pubDate>Fri, 07 Sep 2018 20:25:37 +1000</pubDate>
+      
+      <guid>/cuisine/eggy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

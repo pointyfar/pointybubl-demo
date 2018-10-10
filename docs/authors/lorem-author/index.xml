@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorem Author on Pointy&#39;s</title>
+    <link>/authors/lorem-author/</link>
+    <description>Recent content in Lorem Author on Pointy&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Sep 2018 20:25:37 +1000</lastBuildDate>
+    
+	<atom:link href="/authors/lorem-author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boiled Eggs</title>
+      <link>/food/boiled-eggs/</link>
+      <pubDate>Fri, 07 Sep 2018 20:25:37 +1000</pubDate>
+      
+      <guid>/food/boiled-eggs/</guid>
+      <description>Aute ab est veniam occaecat, voluptate nulla cupidatat. Enim senserit ubi aute dolor, offendit sunt quorum consequat sunt. Iudicem an ipsum, export nostrud est philosophari. Ad se summis sint ipsum, ab quamquam o appellat.  Stuff in a Box
+  Vidisse magna incurreret iis se senserit ne consequat. Admodum aliqua voluptate vidisse, possumus minim fabulas. Et irure culpa velit fabulas, mentitum e quae laborum.     Stuff in a Box</description>
+    </item>
+    
+  </channel>
+</rss>

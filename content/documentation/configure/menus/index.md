@@ -6,6 +6,6 @@ draft: false
 
 You can take advantage of Hugo's Section Menus for Lazy Bloggers documented here: https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers
 
-You would only need to set `sectionPagesMenu= "main"` in your `config.toml` file.
+You would only need to set `sectionPagesMenu = "main"` in your `config.toml` file.
 
 Alternatively, set up each menu item individually following the documentation at https://gohugo.io/templates/menu-templates/#site-config-menus

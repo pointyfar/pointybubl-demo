@@ -20,18 +20,16 @@ These are arrays with each element pointing to a data file. Each data file may b
   url = "img/hero-background.jpeg"
   ```
 
-- links
+- links    
   ```toml
   label = "Other Links"
   type = "links"
-
   [[links]]
     label = "tamen ipsum"
     url = "#"
   ```
 
-- text 
-
+- text  
   ```toml
   text = """
   Mentitum summis veniam admodum noster. Ad anim ipsum quis nostrud, et 

@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Pointy's"
-
+author = "Site Author"
 theme = "pointybubl"
 paginate = 8
 
@@ -12,6 +12,8 @@ pygmentsCodeFencesGuessSyntax = true
 
 preserveTaxonomyNames = true 
 pluralizeListTitles = false
+
+publishDir = "docs"
 #sectionPagesMenu = "main"
     
 [[menu.main]]
@@ -56,13 +58,14 @@ pluralizeListTitles = false
   label = "fas fa-search"
   
 [params.placeholder]
-  disabled = true
+  #disabled = true
   ## use img 
   _img = "/img/placeholder-100.png"
   
   ## use svg
-  size = "100px"
-  text = "[no image available]"
+  width = "150"
+  height = "150"
+  label = "[no image available]"
   text_size = "9px"
   
 [params.scss]
@@ -79,12 +82,13 @@ pluralizeListTitles = false
   background = "img/hero-background-dark.jpeg"
   #background = "img/hero-background-light.jpeg"
   bgislight = false
-
+[params.author]
+  name = "site author"
 [[params.authors]]
   name = "default-author"
+  default = true
   
 [[params.authors]]
-  #default = true
   name = "pointy-far"
   featured = true
 
@@ -124,6 +128,25 @@ pluralizeListTitles = false
   labeled = true
   label = "Categorised: "
 
+[params.sidebar]
+  display = true
+  position = "right"
+
+[[params.sidebar.box]]
+  type = "invalid-box"
+[[params.sidebar.box]]
+  type = "author"
+[[params.sidebar.box]]
+  type = "social"
+  data = "social"
+[[params.sidebar.box]]
+  type = "tagcloud"
+  label = "A Cloud of Tags"
+  taxonomy = "authors"
+  threshold = 1
+[[params.sidebar.box]]
+  type = "custom"
+  partial = "sidebar/custom-box.html"
   
 [taxonomies]
   category = "categories"
