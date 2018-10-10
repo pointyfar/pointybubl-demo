@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Difficulty on Pointy&#39;s</title>
-    <link>https://pointyfar.github.io/difficulty/</link>
+    <link>https://pointyfar.github.io/pointybubl-demo/difficulty/</link>
     <description>Recent content in Difficulty on Pointy&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pointyfar.github.io/difficulty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pointyfar.github.io/pointybubl-demo/difficulty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>easy</title>
-      <link>https://pointyfar.github.io/difficulty/easy/</link>
+      <link>https://pointyfar.github.io/pointybubl-demo/difficulty/easy/</link>
       <pubDate>Fri, 07 Sep 2018 20:25:37 +1000</pubDate>
       
-      <guid>https://pointyfar.github.io/difficulty/easy/</guid>
+      <guid>https://pointyfar.github.io/pointybubl-demo/difficulty/easy/</guid>
       <description></description>
     </item>
     
