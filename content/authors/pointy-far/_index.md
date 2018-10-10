@@ -2,7 +2,7 @@
 title: "Pointy Far"
 date: 2018-09-24T20:36:51+10:00
 draft: false
-image: "/img/hello.jpeg"
+image: "img/hello.jpeg"
 header: "About myself."
 blurb: Expetendis concursionibus a mandaremus, id irure laborum, hic tamen malis se possumus in ne sunt sed fore, malis o mandaremus se cillum, culpa familia litteris quae appellat, iis noster aute legam laborum, ubi voluptate qui litteris. 
 ---
