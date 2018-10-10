@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorem on Pointy&#39;s</title>
-    <link>/lorem/</link>
+    <link>https://pointyfar.github.io/lorem/</link>
     <description>Recent content in Lorem on Pointy&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Apr 2018 18:36:12 +1000</lastBuildDate>
     
-	<atom:link href="/lorem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pointyfar.github.io/lorem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Three</title>
-      <link>/lorem/three/</link>
+      <link>https://pointyfar.github.io/lorem/three/</link>
       <pubDate>Fri, 27 Apr 2018 18:36:12 +1000</pubDate>
       
-      <guid>/lorem/three/</guid>
+      <guid>https://pointyfar.github.io/lorem/three/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius iaculis tellus a blandit. Proin felis ligula, auctor volutpat pellentesque a, tristique eu ipsum. Mauris imperdiet tempus quam, vitae porttitor dui volutpat eu. Quisque molestie consequat ligula, rhoncus pulvinar nunc commodo non. Proin rutrum enim quis eleifend venenatis. Aenean quis sapien purus. Fusce convallis orci sollicitudin, pharetra arcu sit amet, lacinia libero. Aliquam a est eu leo iaculis feugiat at sit amet justo.</description>
     </item>
     
     <item>
       <title>Two</title>
-      <link>/lorem/two/</link>
+      <link>https://pointyfar.github.io/lorem/two/</link>
       <pubDate>Fri, 27 Apr 2018 18:36:08 +1000</pubDate>
       
-      <guid>/lorem/two/</guid>
+      <guid>https://pointyfar.github.io/lorem/two/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat, dui ut rutrum bibendum, quam justo dignissim elit, non varius arcu nunc a leo. Nullam maximus aliquam lectus ut lobortis. Curabitur dapibus arcu augue, eleifend auctor tellus pharetra sed. Cras efficitur condimentum suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus rhoncus, neque vitae porttitor tempor, dolor quam tincidunt metus, a interdum massa orci vel sapien. Donec ullamcorper aliquet purus, ac porta libero vulputate quis.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>/lorem/one/</link>
+      <link>https://pointyfar.github.io/lorem/one/</link>
       <pubDate>Fri, 27 Apr 2018 18:35:35 +1000</pubDate>
       
-      <guid>/lorem/one/</guid>
+      <guid>https://pointyfar.github.io/lorem/one/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a nunc ligula. Fusce placerat rutrum ultrices. Nunc sit amet feugiat lacus, ut aliquam turpis. Pellentesque sed magna vel quam placerat lobortis vitae a dolor. Quisque consectetur sem vel risus auctor volutpat non at dui. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam eget finibus arcu. Vestibulum ac cursus velit, sit amet ullamcorper tortor. Nunc at interdum neque, id mollis ligula.</description>
     </item>
     

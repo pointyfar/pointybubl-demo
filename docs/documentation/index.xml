@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on Pointy&#39;s</title>
-    <link>/documentation/</link>
+    <link>https://pointyfar.github.io/documentation/</link>
     <description>Recent content in Documentation on Pointy&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Sep 2018 22:39:35 +1000</lastBuildDate>
     
-	<atom:link href="/documentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pointyfar.github.io/documentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Icons and Fonts</title>
-      <link>/documentation/customising/icons-and-fonts/</link>
+      <link>https://pointyfar.github.io/documentation/customising/icons-and-fonts/</link>
       <pubDate>Mon, 24 Sep 2018 22:14:31 +1000</pubDate>
       
-      <guid>/documentation/customising/icons-and-fonts/</guid>
+      <guid>https://pointyfar.github.io/documentation/customising/icons-and-fonts/</guid>
       <description>Adding Fontawesome and/or other assets This theme itself does not come with Fontawesome out of the box (though this demo does). Simply add the references to &amp;lt;YOUR-HUGO-SITE&amp;gt;/layouts/partials/head/extra-head.html as necessary.
 &amp;lt;!-- exampleSite/layouts/partials/head/extra-head.html --&amp;gt; &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;https://use.fontawesome.com/releases/v5.0.13/css/all.css&amp;#34; &amp;gt; See the fontawesome website for how to add its assets.
 Any assets or scripts that may need to be included at the bottom of the html may be added to /layouts/partials/foot/extra-foot.html.</description>
@@ -24,10 +24,10 @@ Any assets or scripts that may need to be included at the bottom of the html may
     
     <item>
       <title>Scss</title>
-      <link>/documentation/customising/scss/</link>
+      <link>https://pointyfar.github.io/documentation/customising/scss/</link>
       <pubDate>Mon, 24 Sep 2018 22:14:16 +1000</pubDate>
       
-      <guid>/documentation/customising/scss/</guid>
+      <guid>https://pointyfar.github.io/documentation/customising/scss/</guid>
       <description>This theme uses the shiny new Hugo Pipes!
 This theme uses Bulma base styles. Follow their instructions for customising Bulma using Sass.
 You can override Bulma variables in &amp;lt;YOUR-HUGO-SITE&amp;gt;/assets/scss/_bulma_overrides.scss.
@@ -38,19 +38,19 @@ $primary: hotpink; You can also define additional custom styles in &amp;lt;YOUR-
     
     <item>
       <title>Print</title>
-      <link>/documentation/features/print/</link>
+      <link>https://pointyfar.github.io/documentation/features/print/</link>
       <pubDate>Mon, 24 Sep 2018 22:13:49 +1000</pubDate>
       
-      <guid>/documentation/features/print/</guid>
+      <guid>https://pointyfar.github.io/documentation/features/print/</guid>
       <description>This theme includes a print.css that strips images from posts. If an ingredients and/or procedure box is included, these will be moved to the top of the page.</description>
     </item>
     
     <item>
       <title>Box</title>
-      <link>/documentation/features/box/</link>
+      <link>https://pointyfar.github.io/documentation/features/box/</link>
       <pubDate>Mon, 24 Sep 2018 22:13:39 +1000</pubDate>
       
-      <guid>/documentation/features/box/</guid>
+      <guid>https://pointyfar.github.io/documentation/features/box/</guid>
       <description>This theme includes a box shortcode for including markdown content within posts. You can use this to display ingredients and procedures for recipes, for example.
 Using the box shortcode, pass a resource parameter pointing to the corresponding content:
 Ingredients here:{{&amp;lt; box resource=&amp;#34;ingredients&amp;#34; /&amp;gt;}}End Ingredients.Procedure here:{{&amp;lt; box resource=&amp;#34;procedure&amp;#34; /&amp;gt;}} &amp;lt;!-- ingredients.md--&amp;gt; * 1 Pot * Water&amp;lt;!-- procedure.md --&amp;gt; 1. Get your pot out1. Fill with desired amount of water1. Put on stove1.</description>
@@ -58,20 +58,20 @@ Ingredients here:{{&amp;lt; box resource=&amp;#34;ingredients&amp;#34; /&amp;gt;
     
     <item>
       <title>Taxonomy on Content</title>
-      <link>/documentation/features/taxonomy-on-content/</link>
+      <link>https://pointyfar.github.io/documentation/features/taxonomy-on-content/</link>
       <pubDate>Mon, 24 Sep 2018 22:13:24 +1000</pubDate>
       
-      <guid>/documentation/features/taxonomy-on-content/</guid>
+      <guid>https://pointyfar.github.io/documentation/features/taxonomy-on-content/</guid>
       <description>You can optionally configure for each post or content page to display its section or taxonomies (ie tags,categories, etc). Defining the below, for example:
 [params.tag_section] position = &amp;#34;head&amp;#34; label = &amp;#34;Filed under: &amp;#34; [[params.display_taxonomies]] position = &amp;#34;head&amp;#34; name = &amp;#34;cuisine&amp;#34; labeled = true [[params.display_taxonomies]] position = &amp;#34;head&amp;#34; name = &amp;#34;difficulty&amp;#34; labeled = true [[params.display_taxonomies]] position = &amp;#34;foot&amp;#34; name = &amp;#34;tags&amp;#34; style = &amp;#34;list&amp;#34; labeled = true [[params.display_taxonomies]] position = &amp;#34;foot&amp;#34; name = &amp;#34;category&amp;#34; labeled = true [taxonomies] category = &amp;#34;categories&amp;#34; tag = &amp;#34;tags&amp;#34; difficulty = &amp;#34;difficulty&amp;#34; cuisine = &amp;#34;cuisine&amp;#34; will result in a post having the following before the content:</description>
     </item>
     
     <item>
       <title>Section Layouts</title>
-      <link>/documentation/features/list-layouts/</link>
+      <link>https://pointyfar.github.io/documentation/features/list-layouts/</link>
       <pubDate>Mon, 24 Sep 2018 22:12:53 +1000</pubDate>
       
-      <guid>/documentation/features/list-layouts/</guid>
+      <guid>https://pointyfar.github.io/documentation/features/list-layouts/</guid>
       <description>You can configure the list layout view for section pages in its _index.md frontmatter. You can also configure whether to paginate the list view by specifying paginatelist: true in the front matter.
 default layout: cardlist This layout takes the first image resource it finds for a post and uses that as a preview image.
 layout: gallery Similar to the above, but with larger featured image.
@@ -80,10 +80,10 @@ You can configure a default placeholder image to use for pages that don&amp;rsqu
     
     <item>
       <title>Image Gallery</title>
-      <link>/documentation/features/image-gallery/</link>
+      <link>https://pointyfar.github.io/documentation/features/image-gallery/</link>
       <pubDate>Mon, 24 Sep 2018 22:12:38 +1000</pubDate>
       
-      <guid>/documentation/features/image-gallery/</guid>
+      <guid>https://pointyfar.github.io/documentation/features/image-gallery/</guid>
       <description>If you have your pages organised as page bundles, you can set
 show_gallery: true on a post&amp;rsquo;s front matter. This will display a gallery of all the resources it finds of type image.
 It will use the .Title attribute as caption if set.</description>
@@ -91,10 +91,10 @@ It will use the .Title attribute as caption if set.</description>
     
     <item>
       <title>Images</title>
-      <link>/documentation/features/images/</link>
+      <link>https://pointyfar.github.io/documentation/features/images/</link>
       <pubDate>Mon, 24 Sep 2018 22:12:25 +1000</pubDate>
       
-      <guid>/documentation/features/images/</guid>
+      <guid>https://pointyfar.github.io/documentation/features/images/</guid>
       <description>If you have your content organised in page bundles as described in https://gohugo.io/content-management/organization/#page-bundles you can take advantage of the shortcode included in this theme:
 {{% image resource=&amp;#34;images/pineapple-on-beach.jpeg&amp;#34; caption=&amp;#34;Pineapple on Beach&amp;#34; alt=&amp;#34;Pineapple&amp;#34; %}} Which renders this:
 You can use the shortcode for non-bundled images as well, passing a src parameter instead of resource:
@@ -103,10 +103,10 @@ You can use the shortcode for non-bundled images as well, passing a src paramete
     
     <item>
       <title>Configure Footer</title>
-      <link>/documentation/configure/footer/</link>
+      <link>https://pointyfar.github.io/documentation/configure/footer/</link>
       <pubDate>Mon, 24 Sep 2018 22:12:02 +1000</pubDate>
       
-      <guid>/documentation/configure/footer/</guid>
+      <guid>https://pointyfar.github.io/documentation/configure/footer/</guid>
       <description>You can add an optional footer by defining a left and/or a right side.
 left = [&amp;#34;footerlinks&amp;#34;, &amp;#34;otherlinks&amp;#34;] right = [&amp;#34;copyright&amp;#34;, &amp;#34;footertext&amp;#34;, &amp;#34;footerimage&amp;#34;] These are arrays with each element pointing to a data file. Each data file may be defined as one of three types of footer items:
  image
@@ -116,10 +116,10 @@ label = &amp;#34;Other Links&amp;#34; type = &amp;#34;links&amp;#34; [[links]] l
     
     <item>
       <title>Configure Authors</title>
-      <link>/documentation/configure/authors/</link>
+      <link>https://pointyfar.github.io/documentation/configure/authors/</link>
       <pubDate>Mon, 24 Sep 2018 22:11:41 +1000</pubDate>
       
-      <guid>/documentation/configure/authors/</guid>
+      <guid>https://pointyfar.github.io/documentation/configure/authors/</guid>
       <description>This theme uses taxonomies to organise authors information. Make sure to define authors as a taxonomy in your site config.
 # config.toml [taxonomies] category = &amp;#34;categories&amp;#34; tag = &amp;#34;tags&amp;#34; author = &amp;#34;authors&amp;#34;  You can configure a default author and a featured author as well. These can be the same author.
 # config.toml [[params.authors]] name = &amp;#34;default-author&amp;#34; default = true [[params.authors]] name = &amp;#34;pointy-far&amp;#34; featured = true# config.toml # the same default and featured author [[params.</description>
@@ -127,10 +127,10 @@ label = &amp;#34;Other Links&amp;#34; type = &amp;#34;links&amp;#34; [[links]] l
     
     <item>
       <title>Configure Sidebar</title>
-      <link>/documentation/configure/sidebar/</link>
+      <link>https://pointyfar.github.io/documentation/configure/sidebar/</link>
       <pubDate>Mon, 24 Sep 2018 22:11:12 +1000</pubDate>
       
-      <guid>/documentation/configure/sidebar/</guid>
+      <guid>https://pointyfar.github.io/documentation/configure/sidebar/</guid>
       <description>Several sidebar &amp;lsquo;boxes&amp;rsquo; are available to customise and use.
 author Populates the box with author details if a featured author is configured.
 [[params.sidebar.box]] type = &amp;#34;author&amp;#34; tagcloud Generates a &amp;lsquo;tag&amp;rsquo; cloud using the taxonomy specified. An optional label may be configured. If a threshold is defined, only &amp;lsquo;tags&amp;rsquo; whose related content count are greater than or equal to that value will be displayed.
@@ -139,20 +139,20 @@ author Populates the box with author details if a featured author is configured.
     
     <item>
       <title>Configure Hero Image</title>
-      <link>/documentation/configure/hero-image/</link>
+      <link>https://pointyfar.github.io/documentation/configure/hero-image/</link>
       <pubDate>Mon, 24 Sep 2018 22:11:05 +1000</pubDate>
       
-      <guid>/documentation/configure/hero-image/</guid>
+      <guid>https://pointyfar.github.io/documentation/configure/hero-image/</guid>
       <description>You can choose to feature a hero image on the home page by adding the path to the image. Specifying bgislight sets the corresponding contrasting font color for the text, i.e. true means dark font color will be used.
 [params.hero] background = &amp;#34;img/hero-background-dark.jpeg&amp;#34; bgislight = false</description>
     </item>
     
     <item>
       <title>Configure Brand</title>
-      <link>/documentation/configure/brand/</link>
+      <link>https://pointyfar.github.io/documentation/configure/brand/</link>
       <pubDate>Mon, 24 Sep 2018 22:10:53 +1000</pubDate>
       
-      <guid>/documentation/configure/brand/</guid>
+      <guid>https://pointyfar.github.io/documentation/configure/brand/</guid>
       <description>The theme uses params.title to populate the top left of the nav bar.
 The hero banner on the index page also uses this value.
 [params] title = &amp;#34;Pointy&amp;#39;s&amp;#34; subtitle = &amp;#34;Blog Template for Hugo&amp;#34; The subtitle uses the params.subtitle value on the index page. Author information is used on content pages. Read about configuring authors here.</description>
@@ -160,29 +160,29 @@ The hero banner on the index page also uses this value.
     
     <item>
       <title>Configure Secondary Navbar</title>
-      <link>/documentation/configure/secondary-navbar/</link>
+      <link>https://pointyfar.github.io/documentation/configure/secondary-navbar/</link>
       <pubDate>Mon, 24 Sep 2018 22:10:44 +1000</pubDate>
       
-      <guid>/documentation/configure/secondary-navbar/</guid>
+      <guid>https://pointyfar.github.io/documentation/configure/secondary-navbar/</guid>
       <description>This theme can optionally show a secondary nav bar under the hero image.
 [params.subnav] usetaxonomy = &amp;#34;categories&amp;#34; taxonomycount = 3 featuredterms = [&amp;#34;queen&amp;#34;] Having the above example confiuration means the secondary nav will be populated with 3 links from the categories taxonomy which will include the category &amp;quot;queen&amp;quot; (and two others). Please note that the list will be sorted alphabetically.</description>
     </item>
     
     <item>
       <title>Configure Search</title>
-      <link>/documentation/configure/search/</link>
+      <link>https://pointyfar.github.io/documentation/configure/search/</link>
       <pubDate>Mon, 24 Sep 2018 22:10:21 +1000</pubDate>
       
-      <guid>/documentation/configure/search/</guid>
+      <guid>https://pointyfar.github.io/documentation/configure/search/</guid>
       <description>This theme includes a search feature powered by lunr.js. To enable, set params.search.enabled to true. Optionally configure whether to display an icon (eg if you are using fontawesome icons) and label. If icon is set to true, you must configure the label as well, which will be used in the icon class definition. If icon is set to false, the label field will be used to label the button.</description>
     </item>
     
     <item>
       <title>Configure menus for the top navbar</title>
-      <link>/documentation/configure/menus/</link>
+      <link>https://pointyfar.github.io/documentation/configure/menus/</link>
       <pubDate>Mon, 24 Sep 2018 22:10:13 +1000</pubDate>
       
-      <guid>/documentation/configure/menus/</guid>
+      <guid>https://pointyfar.github.io/documentation/configure/menus/</guid>
       <description>You can take advantage of Hugo&amp;rsquo;s Section Menus for Lazy Bloggers documented here: https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers
 You would only need to set sectionPagesMenu = &amp;quot;main&amp;quot; in your config.toml file.
 Alternatively, set up each menu item individually following the documentation at https://gohugo.io/templates/menu-templates/#site-config-menus</description>
@@ -190,10 +190,10 @@ Alternatively, set up each menu item individually following the documentation at
     
     <item>
       <title>Installing the Theme</title>
-      <link>/documentation/installing/</link>
+      <link>https://pointyfar.github.io/documentation/installing/</link>
       <pubDate>Mon, 24 Sep 2018 22:09:47 +1000</pubDate>
       
-      <guid>/documentation/installing/</guid>
+      <guid>https://pointyfar.github.io/documentation/installing/</guid>
       <description>Follow the instructions in the Hugo documentation: https://gohugo.io/themes/installing-and-using-themes/
 If you are deploying your Hugo site on Netlify, please note that you need to add the theme as a submodule: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/#use-hugo-themes-with-netlify
 Add pointybubl as submodule

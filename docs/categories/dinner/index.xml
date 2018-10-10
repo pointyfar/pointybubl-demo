@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dinner on Pointy&#39;s</title>
-    <link>/categories/dinner/</link>
+    <link>https://pointyfar.github.io/categories/dinner/</link>
     <description>Recent content in dinner on Pointy&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Sep 2018 20:25:37 +1000</lastBuildDate>
     
-	<atom:link href="/categories/dinner/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pointyfar.github.io/categories/dinner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Boiled Eggs</title>
-      <link>/food/boiled-eggs/</link>
+      <link>https://pointyfar.github.io/food/boiled-eggs/</link>
       <pubDate>Fri, 07 Sep 2018 20:25:37 +1000</pubDate>
       
-      <guid>/food/boiled-eggs/</guid>
+      <guid>https://pointyfar.github.io/food/boiled-eggs/</guid>
       <description>Aute ab est veniam occaecat, voluptate nulla cupidatat. Enim senserit ubi aute dolor, offendit sunt quorum consequat sunt. Iudicem an ipsum, export nostrud est philosophari. Ad se summis sint ipsum, ab quamquam o appellat.  Stuff in a Box
   Vidisse magna incurreret iis se senserit ne consequat. Admodum aliqua voluptate vidisse, possumus minim fabulas. Et irure culpa velit fabulas, mentitum e quae laborum.     Stuff in a Box</description>
     </item>
     
     <item>
       <title>Boiled Water</title>
-      <link>/food/boiled-water/</link>
+      <link>https://pointyfar.github.io/food/boiled-water/</link>
       <pubDate>Tue, 07 Aug 2018 14:32:25 +1000</pubDate>
       
-      <guid>/food/boiled-water/</guid>
+      <guid>https://pointyfar.github.io/food/boiled-water/</guid>
       <description>&lt;p&gt;This is how you boil water yo.&lt;/p&gt;
 
 &lt;p&gt;Irure singulis offendit et non aute officia, nam minim fabulas an se sunt duis ea iudicem do quid philosophari constias malis constias, ita nulla fugiat dolor ullamco, e fore iudicem concursionibus, dolore id excepteur. Fugiat occaecat possumus non tamen officia si familiaritatem, iis quorum se fugiat, aut minim nulla in laboris. Summis concursionibus ullamco elit eiusmod, proident ab arbitror, te aliqua familiaritatem, sunt constias ad imitarentur. Vidisse esse ubi occaecat distinguantur.Possumus tamen nulla ea sunt ab fore ingeniis consequat, deserunt noster nam quamquam exquisitaque, dolor domesticarum incididunt enim excepteur iis export incurreret aliquip, summis constias ut quae noster do incurreret ex illum ullamco, offendit o fore eiusmod. Quibusdam id minim consequat. Magna voluptate quamquam de si dolor eruditionem.&lt;/p&gt;
@@ -50,7 +50,7 @@
     &lt;div class=&#34;card-image&#34;&gt;
       &lt;figure class=&#34;image is-marginless&#34;&gt;
          
-        &lt;img src=&#34;/food/boiled-water/images/pots-on-gas-stove.jpeg&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://pointyfar.github.io/food/boiled-water/images/pots-on-gas-stove.jpeg&#34; alt=&#34;&#34;&gt;
         
         
         &lt;figcaption&gt;

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cuisine on Pointy&#39;s</title>
-    <link>/cuisine/</link>
+    <link>https://pointyfar.github.io/cuisine/</link>
     <description>Recent content in Cuisine on Pointy&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/cuisine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pointyfar.github.io/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>boiled</title>
-      <link>/cuisine/boiled/</link>
+      <link>https://pointyfar.github.io/cuisine/boiled/</link>
       <pubDate>Fri, 07 Sep 2018 20:25:37 +1000</pubDate>
       
-      <guid>/cuisine/boiled/</guid>
+      <guid>https://pointyfar.github.io/cuisine/boiled/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eggy</title>
-      <link>/cuisine/eggy/</link>
+      <link>https://pointyfar.github.io/cuisine/eggy/</link>
       <pubDate>Fri, 07 Sep 2018 20:25:37 +1000</pubDate>
       
-      <guid>/cuisine/eggy/</guid>
+      <guid>https://pointyfar.github.io/cuisine/eggy/</guid>
       <description></description>
     </item>
     
