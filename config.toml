@@ -13,7 +13,6 @@ pygmentsCodeFencesGuessSyntax = true
 preserveTaxonomyNames = true 
 pluralizeListTitles = false
 
-publishDir = "docs"
 #sectionPagesMenu = "main"
     
 [[menu.main]]
