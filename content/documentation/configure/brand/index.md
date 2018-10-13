@@ -16,3 +16,12 @@ The hero banner on the index page also uses this value.
 ```
 
 The subtitle uses the `params.subtitle` value on the index page. Author information is used on content pages. Read about [configuring authors here]({{< relref "authors/index.md" >}}).
+
+Alternatively, you can choose to use a logo or image instead of hero text.
+
+```toml
+[params.brandimage]
+  image = "images/awesome-logo.png"
+
+```
+![Screenshot Hero Image](/images/screenshot-image-hero.png)

@@ -1,4 +1,4 @@
-baseURL = "https://pointyfar.github.io/pointybubl-demo/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Pointy's"
 author = "Site Author"
@@ -51,6 +51,9 @@ pluralizeListTitles = false
   socialdata = "social"
   authorsTaxonomy = "authors"
   
+[params.brandimage]
+  image = "img/awesome-logo.png"
+
 [params.search]
   enabled = true
   icon = true
