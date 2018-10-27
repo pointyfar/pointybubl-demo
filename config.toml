@@ -28,7 +28,12 @@ pluralizeListTitles = false
   weight = 110
   identifier = "about"
   url = "/about/"
-
+[[menu.main]]
+  name = "Events"
+  title = "Events"
+  weight = 115
+  identifier = "events"
+  url = "/events/"
 [[menu.main]]
   name = "Recipes"
   title = "Recipes and Food Section"
@@ -146,6 +151,11 @@ pluralizeListTitles = false
   label = "A Cloud of Tags"
   taxonomy = "authors"
   threshold = 1
+[[params.sidebar.box]]
+  type = "events"
+  section = "events"
+  count = 2
+  label = "Events coming soon:"
 [[params.sidebar.box]]
   type = "custom"
   partial = "sidebar/custom-box.html"
