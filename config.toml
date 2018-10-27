@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://pointybubl-demo.netlify.com/"
 languageCode = "en-us"
 title = "Pointy's"
 author = "Site Author"
