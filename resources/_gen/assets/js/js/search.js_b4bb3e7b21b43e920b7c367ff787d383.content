@@ -1,4 +1,4 @@
-var siteUrl = "/index.json?nocache=" + (new Date()).toISOString().slice(0,10);
+var siteUrl = "https://pointybubl-demo.netlify.com/index.json?nocache=" + (new Date()).toISOString().slice(0,10);
 
 var searchModal = document.getElementById("searchModal");
 document.getElementById("launchSearchModal").addEventListener("click", toggleModal);
