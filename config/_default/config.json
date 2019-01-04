@@ -1,5 +1,5 @@
 {
-  "baseURL": "http://example.org/",
+  "baseURL": "https://pointybubl-demo.netlify.com/",
   "languageCode": "en-us",
   "title": "My New Hugo Site",
   "paginate": 10,
