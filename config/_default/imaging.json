@@ -1,0 +1,5 @@
+{
+  "resampleFilter": "box",
+  "quality": "75",
+  "anchor": "Top"
+}

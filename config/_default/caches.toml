@@ -1,0 +1,3 @@
+[getjson]
+dir = ":cacheDir/:project"
+maxAge = "1s"
