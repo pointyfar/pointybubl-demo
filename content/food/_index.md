@@ -5,7 +5,6 @@ draft: false
 menu:
   main:
     name: Food
-layout: cardlist
 paginatelist: true
 ---
 

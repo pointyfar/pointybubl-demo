@@ -1,7 +1,7 @@
 ---
 title: Events
 eventdate: event
-layout: event
+#layout: event
 ---
 
 Non eram instituendarum ubi ne ut ipsum consequat, o non amet tempor irure, 
