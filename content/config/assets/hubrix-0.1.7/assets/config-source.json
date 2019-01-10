@@ -32,6 +32,13 @@
       "destination" : "configDir/_default/menus.(json/yaml/toml)"
     },
     {
+      "label": "Outputs",
+      "key" : ["outputs"],
+      "dynamic": true,
+      "url" : "config/assets/hubrix-0.1.7/assets/config/outputs.json",
+      "destination" : "configDir/_default/outputs.(json/yaml/toml)"
+    },
+    {
       "label": "Params",
       "key" : ["params"],
       "url" : "config/assets/hubrix-0.1.7/assets/config/params.json",
