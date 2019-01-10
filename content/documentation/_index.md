@@ -1,6 +1,6 @@
 ---
 title: "Documentation"
-date: 2018-09-24T22:39:35+10:00
+date: 2019-01-06T13:08:59+10:00
 draft: false
 menu:
   main:
@@ -28,6 +28,5 @@ You can see the theme at work in the [demo site](#).
 
 ## Documentation 
 
-Running the `exampleSite` gives you access to the theme's documentation at `localhost:1313/documentation`. You can also find it [online](#).
+The documentation can be found at the [demo site](https://pointybubl-demo.netlify.com/) ([repo](https://github.com/pointyfar/pointybubl-demo)).
 
-[Click Here](./installing/) to get started, or scroll down to see all content.

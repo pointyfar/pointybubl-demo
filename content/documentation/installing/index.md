@@ -23,5 +23,13 @@ Configure your Hugo site to use `pointybubl` as its theme and then run `hugo ser
   # config.toml
   theme = "pointybubl"
   ```
-  ![Installing Theme](/images/screenshot-installing-theme.png)
+
+Navigate to your hugo project and run 
+
+```bash
+hugo server
+```
+Open your browser and navigate to `localhost:1313`.
+
+Up Next: [Configuring]({{% relref "documentation/configure/introduction.md" %}})
 
