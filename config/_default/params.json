@@ -186,71 +186,82 @@
     {
       "widgetName": "section-full",
       "class": "column is-full",
-      "config": {
-        "class": "footer"
-      },
       "items": [{
-          "widgetName": "section-quarter",
-          "class": "column is-one-quarter",
+          "widgetName": "section-full",
+          "class": "column is-full",
+          "config": {
+            "class": "container"
+          },
           "items": [{
-            "widgetName": "widget-text",
-            "class": "widget",
-            "config": {
-              "title": "Text Title",
-              "content": "Lorem Ipsum "
-            },
-            "type": "widget"
-          }],
-          "flex": 25,
-          "type": "section"
-        },
-        {
-          "widgetName": "section-quarter",
-          "class": "column is-one-quarter",
-          "items": [{
-            "widgetName": "widget-links",
-            "class": "widget",
-            "config": {
-              "label": "Links",
-              "class": null,
-              "style": "button",
-              "list": [{
-                  "url": "http://www.twitter.com",
-                  "text": "twitter"
+              "widgetName": "section-quarter",
+              "class": "column is-one-quarter",
+              "items": [{
+                "widgetName": "widget-text",
+                "class": "widget",
+                "config": {
+                  "title": "Text Title",
+                  "content": "Lorem Ipsum "
                 },
-                {
-                  "url": "#",
-                  "text": "Link 2"
+                "type": "widget"
+              }],
+              "flex": 25,
+              "type": "section"
+            },
+            {
+              "widgetName": "section-quarter",
+              "class": "column is-one-quarter",
+              "items": [{
+                "widgetName": "widget-links",
+                "class": "widget",
+                "config": {
+                  "label": "Links",
+                  "class": null,
+                  "style": "button",
+                  "list": [{
+                      "url": "http://www.twitter.com",
+                      "text": "twitter"
+                    },
+                    {
+                      "url": "#",
+                      "text": "Link 2"
+                    },
+                    {
+                      "url": "#",
+                      "text": "Link 3"
+                    }
+                  ]
                 },
-                {
-                  "url": "#",
-                  "text": "Link 3"
-                }
-              ]
+                "type": "widget"
+              }],
+              "flex": 25,
+              "type": "section"
             },
-            "type": "widget"
-          }],
-          "flex": 25,
-          "type": "section"
-        },
-        {
-          "widgetName": "section-half",
-          "class": "column is-one-half",
-          "items": [{
-            "widgetName": "widget-image",
-            "class": "widget",
-            "config": {
-              "image": "img/hero-background.jpeg",
-              "alt": "Featured Image"
-            },
-            "type": "widget"
-          }],
-          "flex": 50,
+            {
+              "widgetName": "section-half",
+              "class": "column is-one-half",
+              "items": [{
+                "widgetName": "widget-image",
+                "class": "widget",
+                "config": {
+                  "image": "img/hero-background.jpeg",
+                  "alt": "Featured Image"
+                },
+                "type": "widget"
+              }],
+              "flex": 50,
+              "type": "section"
+            }
+          ],
+          "flex": 100,
           "type": "section"
         }
+
       ],
       "flex": 100,
-      "type": "section"
+      "type": "section",
+      "config": {
+        "class": "footer"
+      }
     }
 
   ]
