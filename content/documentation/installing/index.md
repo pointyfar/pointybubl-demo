@@ -31,5 +31,5 @@ hugo server
 ```
 Open your browser and navigate to `localhost:1313`.
 
-Up Next: [Configuring]({{% relref "documentation/configure/introduction.md" %}})
+Up Next: [Configuring]({{% relref "documentation/configure/introduction/index.md" %}})
 

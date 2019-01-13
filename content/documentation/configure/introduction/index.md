@@ -6,7 +6,7 @@ draft: false
 
 
 
-![No Widgets Configured](../configure-no-widgets.png)
+![No Widgets Configured](configure-no-widgets.png)
 
 If you see the above message, congratulations! It means you have installed the theme correctly. Now we need to configure it.
 
@@ -18,11 +18,11 @@ Visit the demo site config: https://pointybubl-demo.netlify.com/config/
 
 ---
 
-![Hubrix Screenshot](../hubrix.png)
+![Hubrix Screenshot](hubrix.png)
 
 On the left is a sidebar with two sections. You can click on the sub-sections to expand them.
 
-![Hubrix Sidebar Animation](../hubrix-sidebar.gif)
+![Hubrix Sidebar Animation](hubrix-sidebar.gif)
 
 ### Configuration 
 
