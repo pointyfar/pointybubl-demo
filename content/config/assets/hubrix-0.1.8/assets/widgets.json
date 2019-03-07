@@ -6,7 +6,7 @@
       "class": "widget",
       "inputType": "content",
       "icon": "pets",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/placeholder-widget.json"
+      "formConfig": "assets/widgets-config/placeholder-widget.json"
     },
     {
       "name": "section-quarter",
@@ -17,7 +17,7 @@
       "flex": 25,
       "group": "sections",
       "icon": "view_compact",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/container-widget.json"
+      "formConfig": "assets/widgets-config/container-widget.json"
 
     },
     {
@@ -29,7 +29,7 @@
       "flex": 33.33,
       "group": "sections",
       "icon": "view_compact",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/container-widget.json"
+      "formConfig": "assets/widgets-config/container-widget.json"
 
     },
     {
@@ -41,7 +41,7 @@
       "flex": 50,
       "group": "sections",
       "icon": "view_compact",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/container-widget.json"
+      "formConfig": "assets/widgets-config/container-widget.json"
 
     },
     {
@@ -53,7 +53,7 @@
       "flex": 100,
       "group": "sections",
       "icon": "view_compact",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/container-widget.json"
+      "formConfig": "assets/widgets-config/container-widget.json"
 
     },
     {
@@ -65,7 +65,7 @@
       "flex": 25,
       "group": "sections",
       "icon": "view_compact",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/container-widget.json"
+      "formConfig": "assets/widgets-config/container-widget.json"
 
       
     },
@@ -76,7 +76,7 @@
       "inputType": "content",
       "icon": "list",
       "group": "utilities",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/labeled-text.json"
+      "formConfig": "assets/widgets-config/labeled-text.json"
     },
     {
       "name": "widget-search",
@@ -85,7 +85,7 @@
       "inputType": "content",
       "icon": "photo",
       "group": "utilities",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/search-widget.json"
+      "formConfig": "assets/widgets-config/search-widget.json"
     },
     {
       "name": "widget-hero",
@@ -94,7 +94,7 @@
       "inputType": "content",
       "icon": "photo",
       "group": "main",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/hero-widget.json"
+      "formConfig": "assets/widgets-config/hero-widget.json"
     },
     {
       "name": "widget-navigation",
@@ -103,7 +103,7 @@
       "inputType": "content",
       "icon": "more_vert",
       "group": "main",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/navbar-widget.json"
+      "formConfig": "assets/widgets-config/navbar-widget.json"
     },
     {
       "name": "widget-author",
@@ -112,7 +112,7 @@
       "inputType": "content",
       "icon": "account_circle",
       "group": "utilities",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/author-widget.json"
+      "formConfig": "assets/widgets-config/author-widget.json"
     },
     {
       "name": "widget-social",
@@ -121,7 +121,7 @@
       "inputType": "content",
       "icon": "thumb_up",
       "group": "utilities",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/social-widget.json"
+      "formConfig": "assets/widgets-config/social-widget.json"
     },
     {
       "name": "widget-tags",
@@ -130,7 +130,7 @@
       "inputType": "content",
       "icon": "label",
       "group": "utilities",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/tagcloud-widget.json"
+      "formConfig": "assets/widgets-config/tagcloud-widget.json"
     },
     {
       "name": "widget-links",
@@ -139,7 +139,7 @@
       "inputType": "content",
       "icon": "link",
       "group": "utilities",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/links-widget.json"
+      "formConfig": "assets/widgets-config/links-widget.json"
     },
     {
       "name": "widget-text",
@@ -148,7 +148,7 @@
       "inputType": "content",
       "icon": "create",
       "group": "utilities",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/text-widget.json"
+      "formConfig": "assets/widgets-config/text-widget.json"
     },
     {
       "name": "widget-content",
@@ -157,7 +157,7 @@
       "inputType": "content",
       "icon": "description",
       "group": "main",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/main-widget.json"
+      "formConfig": "assets/widgets-config/main-widget.json"
     },
     {
       "name": "widget-image",
@@ -166,7 +166,7 @@
       "inputType": "content",
       "icon": "photo",
       "group": "utilities",
-      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/image-widget.json"
+      "formConfig": "assets/widgets-config/image-widget.json"
     }
   ]
   
