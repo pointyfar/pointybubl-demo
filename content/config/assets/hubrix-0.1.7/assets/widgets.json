@@ -79,6 +79,15 @@
       "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/labeled-text.json"
     },
     {
+      "name": "widget-search",
+      "label": "Search Widget",
+      "class": "widget",
+      "inputType": "content",
+      "icon": "photo",
+      "group": "utilities",
+      "formConfig": "config/assets/hubrix-0.1.7/assets/widgets-config/search-widget.json"
+    },
+    {
       "name": "widget-hero",
       "label": "Hero Widget",
       "class": "widget",
