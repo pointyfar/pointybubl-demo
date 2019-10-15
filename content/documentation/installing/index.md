@@ -2,6 +2,7 @@
 title: "Installing the Theme"
 date: 2018-09-24T22:09:47+10:00
 draft: false
+weight: 1
 ---
 
 Follow the instructions in the Hugo documentation: 

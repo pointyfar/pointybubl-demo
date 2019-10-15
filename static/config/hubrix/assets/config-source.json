@@ -3,52 +3,52 @@
     {
       "label": "General",
       "key" : [],
-      "url" : "config/hubrix-0.1.8/assets/config/config.json",
+      "url" : "config/hubrix/assets/config/config.json",
       "destination" : "configDir/_default/config.(json/yaml/toml)"
     },
     {
       "label": "Blackfriday",
       "key" : ["blackfriday"],
-      "url" : "config/hubrix-0.1.8/assets/config/blackfriday.json",
+      "url" : "config/hubrix/assets/config/blackfriday.json",
       "destination" : "configDir/_default/blackfriday.(json/yaml/toml)"
     },
     {
       "label": "Imaging",
       "key" : ["imaging"],
-      "url" : "config/hubrix-0.1.8/assets/config/imaging.json",
+      "url" : "config/hubrix/assets/config/imaging.json",
       "destination" : "configDir/_default/imaging.(json/yaml/toml)"
     },
     {
       "label": "Caches",
       "key" : ["caches"],
-      "url" : "config/hubrix-0.1.8/assets/config/caches.json",
+      "url" : "config/hubrix/assets/config/caches.json",
       "destination" : "configDir/_default/caches.(json/yaml/toml)"
     },
     {
       "label": "Menus",
       "key" : ["menus"],
       "dynamic": true,
-      "url" : "config/hubrix-0.1.8/assets/config/menus.json",
+      "url" : "config/hubrix/assets/config/menus.json",
       "destination" : "configDir/_default/menus.(json/yaml/toml)"
     },
     {
       "label": "Outputs",
       "key" : ["outputs"],
       "dynamic": true,
-      "url" : "config/hubrix-0.1.8/assets/config/outputs.json",
+      "url" : "config/hubrix/assets/config/outputs.json",
       "destination" : "configDir/_default/outputs.(json/yaml/toml)"
     },
     {
       "label": "Params",
       "key" : ["params"],
-      "url" : "config/hubrix-0.1.8/assets/config/params.json",
+      "url" : "config/hubrix/assets/config/params.json",
       "destination" : "configDir/_default/params.(json/yaml/toml)"
     },
     {
       "label": "Taxonomies",
       "key" : ["taxonomies"],
       "dynamic": true,
-      "url" : "config/hubrix-0.1.8/assets/config/taxonomies.json",
+      "url" : "config/hubrix/assets/config/taxonomies.json",
       "destination" : "configDir/_default/taxonomies.(json/yaml/toml)"
     }
   ]

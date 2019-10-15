@@ -10,11 +10,7 @@ draft: false
 
 If you see the above message, congratulations! It means you have installed the theme correctly. Now we need to configure it.
 
-Navigate to the `exampleSite` folder included in this theme and run `hugo server`. Open your browser to `localhost:1313/config`.
-
---- OR ---
-
-Visit the demo site config: https://pointybubl-demo.netlify.com/config/
+Visit the demo site config page for drag-and-drop configuration: https://pointybubl-demo.netlify.com/config/
 
 ---
 
@@ -24,7 +20,9 @@ On the left is a sidebar with two sections. You can click on the sub-sections to
 
 ![Hubrix Sidebar Animation](hubrix-sidebar.gif)
 
-### Configuration 
+### Site Configuration 
 
+[Read about configuring general site settings]({{< relref "/documentation/configure/hubrix-config/index.md" >}})
 
 ### Widgets
+[Read about the different widgets available]({{< relref "/documentation/configure/hubrix-widgets/_index.md" >}})
