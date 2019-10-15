@@ -102,6 +102,34 @@
                   "type": "widget"
                 },
                 {
+                "widgetName": "widget-links",
+                "class": "widget",
+                "config": {
+                  "label": "Labeled Text Links",
+                  "class": null,
+                  "style": "button",
+                  "list": [
+                    {
+                      "text": "Lorem Ipsum"
+                    },
+                    {
+                      "text": "dolor sit"
+                    }
+                  ]
+                },
+                "type": "widget"
+              },
+              {
+                "widgetName": "widget-search",
+                "class": "widget",
+                "config": {
+                  "label": "Search",
+                  "icon": "fas fa-search",
+                  "text": "Pre"
+                },
+                "type": "widget"
+              },
+                {
                   "widgetName": "widget-placeholder",
                   "class": "widget",
                   "config": {

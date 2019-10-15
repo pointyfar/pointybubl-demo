@@ -1,0 +1,14 @@
+{
+  "imports" : [
+    {
+      "path" : "github.com/pointyfar/hubrix",
+      "disable" : false,
+      "mounts" : [
+        {
+          "target": "static/config/hubrix",
+          "source": "dist"
+        }
+      ]
+    }
+  ]
+}
