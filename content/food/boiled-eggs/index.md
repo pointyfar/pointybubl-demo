@@ -36,17 +36,16 @@ cuisine:
 - Iudicem an ipsum, export nostrud est philosophari. 
 - Ad se summis sint ipsum, ab quamquam o appellat. 
 
-{{% box title="Stuff in a box" %}}
 - Vidisse magna incurreret iis se senserit ne consequat. 
 - Admodum aliqua voluptate vidisse, possumus minim fabulas. 
 - Et irure culpa velit fabulas, mentitum e quae laborum. 
-{{% /box %}}
 
-{{% box title="Stuff in a box" %}}
+
+
 - Vidisse magna incurreret iis se senserit ne consequat. 
 - Admodum aliqua voluptate vidisse, possumus minim fabulas. 
 - Et irure culpa velit fabulas, mentitum e quae laborum. 
-{{% /box %}}
+
 
 - Illum excepteur in probant ne admodum et laboris. 
 - Consequat noster iis probant instituendarum, arbitror ea doctrina. 
